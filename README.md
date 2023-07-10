@@ -8,5 +8,3 @@
 [MIT](https://opensource.org/licenses/MIT)
 
 Copyright (c) 2023-present, NimbleWing
-
-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

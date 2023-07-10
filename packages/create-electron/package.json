@@ -7,6 +7,9 @@
   "license": "MIT",
   "main": "lib/create-electron.js",
   "typing": "lib/create-electron.d.ts",
+  "bin": {
+    "create-electron": "lib/create-electron.js"
+  },
   "directories": {
     "lib": "lib",
     "test": "__tests__"

@@ -1,1 +1,3 @@
-console.log('hello,this is create electron')
+#!/usr/bin/env node
+import Chalk from 'chalk';
+console.log(Chalk.blue('NimbleWing'))
