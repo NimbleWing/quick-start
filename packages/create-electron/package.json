@@ -1,6 +1,6 @@
 {
   "name": "@nwing/create-electron",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "An easy way to start an Electron project",
   "keywords": [],
   "author": "NimbleWing<1428116329@qq.com>",
